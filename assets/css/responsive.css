@@ -1,3 +1,18 @@
+@media only screen and (max-width: 2000px){
+  .mbs .person.person2{
+    max-width: 120%;
+    margin-top: 0;
+  }
+}
+
+@media only screen and (max-width: 1500px){
+  .mbs .person.person2{
+    
+    margin-top: -125px;
+  }
+}
+
+
 @media only screen and (min-width:767px) {
 .check-heading::before, footer h1::before{
   width: 24px;
